@@ -50,6 +50,7 @@ body {
 }
 
 .main-tag h1 {
+  font-family: 'playfair display';
   font-weight: bold;
   font-size: 72px;
   margin-bottom: -5px;
